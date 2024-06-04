@@ -34,7 +34,7 @@ function listPostsHelper(posts, options) {
             <article class="row g-0">
               <div class="col-12 col-lg-4">
                 <img
-                  src="${post.cover}"
+                  src="<%= url_for(${post.cover}) %>"
                   class="img-fluid w-100 h-100 object-fit-cover rounded-3"
                   alt="article-${post.title}"
                 >
