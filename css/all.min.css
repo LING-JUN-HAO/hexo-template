@@ -13867,7 +13867,7 @@ textarea.form-control-lg {
   }
 }
 .test {
-  color: red;
+  color: red !important;
 }
 
 /*# sourceMappingURL=all.min.css.map */
