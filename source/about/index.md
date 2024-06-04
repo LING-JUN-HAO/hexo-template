@@ -1,6 +1,7 @@
 ---
 title: 關於我自己
 date: 2023-10-12 00:16:15
+fullPage: true
 comments: false
 ---
 
